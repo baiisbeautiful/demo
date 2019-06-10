@@ -1,0 +1,12 @@
+#修改端口号server:
+server:
+  port: 8080
+#加载驱动
+cupSize: f
+name: 王梦丽
+age: 24
+
+girl:
+  name: 杨幂
+  age: 23
+  cupSize: D
